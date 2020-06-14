@@ -1,0 +1,60 @@
+{
+    "reminders": [
+        {
+            "title": "Notification",
+            "message": "It's time to change your password.",
+            "start_date": "Sat, Jun-13",
+            "reminder_time": "09:00 AM",
+            "frequency": 10
+        },
+        {
+            "title": "Brenda",
+            "message": "Hello! Good morning.",
+            "start_date": "Fri, Jun-15",
+            "reminder_time": "09:00 AM",
+            "frequency": 2
+        },
+        {
+            "title": "Brenda",
+            "message": "lalala",
+            "start_date": "Mon, Jul-23",
+            "reminder_time": "09:30 AM",
+            "frequency": "30"
+        },
+        {
+            "title": "Brenda",
+            "message": "This is a sample notification.",
+            "start_date": "Thu, Jun-14",
+            "reminder_time": "11:06 AM",
+            "frequency": "1"
+        },
+        {
+            "title": "Notification!",
+            "message": "This is a test lang :)",
+            "start_date": "Thu, Jun-14",
+            "reminder_time": "11:32 AM",
+            "frequency": "1"
+        },
+        {
+            "title": "Notification 1",
+            "message": "Hello world :)",
+            "start_date": "Thu, Jun-14",
+            "reminder_time": "11:36 AM",
+            "frequency": "1"
+        },
+        {
+            "title": "Brenda",
+            "message": "Commit your changes to Github now",
+            "start_date": "Thu, Jun-14",
+            "reminder_time": "11:45 AM",
+            "frequency": "1"
+        },
+        {
+            "title": "Test Notification",
+            "message": "ajsdfasd jsdfjasjdf  asdjf aldkf asdfaskdf s fajs f",
+            "start_date": "Thu, Jun-14",
+            "reminder_time": "11:50 AM",
+            "frequency": "1"
+        }
+    ]
+}
